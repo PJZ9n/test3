@@ -1,4 +1,1 @@
 # foo
-# hoge
-# fuga
-# piyo
